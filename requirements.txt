@@ -1,5 +1,4 @@
 streamlit
-openai
 pdfplumber
 tavily-python
 python-dotenv
