@@ -1,6 +1,8 @@
-AI Fact Checker Web App
+##AI Fact Checker Web App
 
 An AI-powered fact-checking web application that verifies claims extracted from documents or text using **Large Language Models (LLMs)** and **real-time web search**. The system combines OpenAI’s reasoning capabilities with Tavily’s search API to provide evidence-backed claim verification.
+
+---
 
 ## Assignment Notes
 - Built as part of an AI Fact-Checking assignment
@@ -10,7 +12,7 @@ An AI-powered fact-checking web application that verifies claims extracted from 
 
 ---
 
-Features
+##Features
 
 * 📄 **PDF/Text Input Support** – Upload PDFs or enter raw text
 * 🧠 **Automatic Claim Extraction** – Identifies factual claims using NLP
